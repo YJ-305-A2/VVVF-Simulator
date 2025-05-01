@@ -2,6 +2,7 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:system="clr-namespace:System;assembly=mscorlib">
 
+    <!-- <FontFamily x:Key="Generic.Font">/GUI/Resource/Fonts/TsukuARdGothicStd/#TsukuARdGothic Std</FontFamily> -->
     <FontFamily x:Key="Generic.Font">/GUI/Resource/Fonts/BIZ_UDPGothic/#BIZ UDPGothic</FontFamily>
     <FontFamily x:Key="Generic.Font.Input">/GUI/Resource/Fonts/MPlus1Code/#M PLUS 1 Code</FontFamily>
 
